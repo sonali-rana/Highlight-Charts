@@ -1,0 +1,13 @@
+* {
+  background-color: #363638;
+}
+.App {
+  height: 70%;
+  width: 70%;
+  padding: 5% 15%;
+}
+
+.App h2 {
+  color: #fff;
+  margin-bottom: 5%;
+}
